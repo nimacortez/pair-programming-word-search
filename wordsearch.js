@@ -15,4 +15,4 @@ const wordSearch = (letters, word) => {
   module.exports = wordSearch;
   
   
-  //pair programmed by @nicholasburgess17 & nimacortez
+  //pair programmed by @nicholasburgess17 & @nimacortez
